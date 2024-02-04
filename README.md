@@ -4,10 +4,10 @@ Imagine you're developing an e-commerce application where customers create accou
 
 Initially, you use a standard constructor for the User class:
 
-public User(String firstName, String lastName, String email,
+_**public User(String firstName, String lastName, String email,
            String address, String phone, int age) {
      // ...
-}
+}**_
 
 However, you encounter challenges:
 
