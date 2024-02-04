@@ -2,12 +2,14 @@
 
 Imagine you're developing an e-commerce application where customers create accounts with varying levels of detail.
 
+
 Initially, you use a standard constructor for the User class:
 
 _**public User(String firstName, String lastName, String email,
            String address, String phone, int age) {
      // ...
 }**_
+
 
 However, you encounter challenges:
 
