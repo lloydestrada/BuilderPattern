@@ -1,4 +1,4 @@
-# Problem Scenario]
+# Problem Scenario
 
 Imagine you're developing an e-commerce application where customers create accounts with varying levels of detail.
 
